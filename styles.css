@@ -1,0 +1,31 @@
+.boxcolor
+{
+    background-color: gray;
+    font-size: 2vw;
+    margin: 5px auto 5px;
+
+}
+
+.title-central
+{
+    font-size: 3vw;
+}
+
+.central-1
+{
+    margin-bottom: 50px;
+}
+
+ .navbar-collapse {
+    width: 100%;
+    text-align: center;
+
+  }
+
+ .navbar-nav > li
+  {
+      float: none;
+      display: inline-block;
+ }
+
+ 
